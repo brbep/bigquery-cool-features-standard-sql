@@ -5,6 +5,6 @@ There is no logical order for the topics to follow, just a collection of a few f
 
 All this content and many others can be found in the [Bigquery documentation](https://cloud.google.com/bigquery/docs/reference).
 
-## Assumptions before you begin
-* You will need to have a Google Cloud account. If not, you can create it from [here](https://cloud.google.com/free). Click on *Get Started for Free* button which appears on the top right corner.
+## Assumptions Before You Begin
+* You will need to have a Google Cloud account. If not, you can create it from [here](https://cloud.google.com/free). Click on **Get Started for Free** button which appears on the top right corner.
 * For some examples, you will need to have a Bigquery project ([see documentation](https://cloud.google.com/resource-manager/docs/creating-managing-projects)) and permissions to edit tables and access data.
