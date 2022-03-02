@@ -1,6 +1,6 @@
-# Cool Bigquery Features Using Standard SQL
+# Cool Bigquery Features Using Standard SQL Syntax
 
-There are several cool features in BigQuery that we can use via standard SQL query syntax, often unknown to even the most frequent users. This document intends to show some of them, not being an exhaustive work.
+There are several cool features in BigQuery that we can use via standard SQL syntax, often unknown to even the most frequent users. This document intends to show some of them, not being an exhaustive work.
 
 There is no logical order for the topics to follow, just a collection of a few features/functions that I find interesting.
 
