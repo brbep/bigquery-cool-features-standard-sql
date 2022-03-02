@@ -20,5 +20,5 @@ FROM produce AS t
 
 ## Documentation
 
-[TO_JSON_STRING](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators#to_json_string)
-[FARM_FINGERPRINT](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators#farm_fingerprint)
+* [TO_JSON_STRING](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators#to_json_string)
+* [FARM_FINGERPRINT](https://cloud.google.com/bigquery/docs/reference/standard-sql/functions-and-operators#farm_fingerprint)
