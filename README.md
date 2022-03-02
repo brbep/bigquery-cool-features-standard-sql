@@ -14,6 +14,8 @@ All this content and many others can be found in this [documentation](https://cl
 ## Table of Contents
 
 * [Removing Duplicate Data](examples/removing-duplicate-data.md)
+* [Search for a String in a Column or an Entire Table](examples/search-string-in-column-or-entire-table.md)
+
 
 
 
