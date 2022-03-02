@@ -4,8 +4,6 @@ There are several cool features in BigQuery that we can use via standard SQL que
 
 There is no logical order for the topics to follow, just a collection of a few features/functions that I find interesting.
 
-All this content and many others can be found in this [documentation](https://cloud.google.com/bigquery/docs/reference).
-
 ## Assumptions Before You Begin
 
 * You will need to have a Google Cloud account. If not, you can create it from [here](https://cloud.google.com/free). Click on **Get Started for Free** button which appears on the top right corner.
@@ -15,11 +13,21 @@ All this content and many others can be found in this [documentation](https://cl
 
 * [Removing Duplicate Data](examples/removing-duplicate-data.md)
 * [Search for a String in a Column or an Entire Table](examples/search-string-in-column-or-entire-table.md)
+* [Returns the Last Day from a Date Expression](examples/returns-last-day-from-date-expression.md)
+* [Secure Through SQL](examples/secure-through-sql.md)
+* [Renaming Table](examples/renaming-table.md)
+* [Access Historical Data](examples/access-historical-data.md)
+* [Scripts and Stored Procedures](examples/scripts-and-stored-procedures.md)
+* [Multi-Statement Transactions](examples/multi-statement-transaction.md)
+* [Dynamic SQL](examples/dynamic-sql.md)
+* [Generate a Row ID Based on Column Values](examples/generate-rowid-from-column-values.md)
+* [Debugging Statements](examples/debugging-statements.md)
+* [Create External Table](examples/create-external-table.md)
+* [Export Data](examples/export-data.md)
+* [Create and Execute ML Models](examples/create-and-execute-ml-models.md)
+* [Analyze and Visualize Geospatial Data](examples/analyse-and-visualize-geospatial-data.md)
 
-
-
-
-## Other References
+## References
 
 * [Bigquery Documentation](https://cloud.google.com/bigquery/docs)
 * [BigQuery Admin reference guide](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-recap)
