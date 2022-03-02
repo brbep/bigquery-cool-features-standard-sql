@@ -13,7 +13,8 @@ All this content and many others can be found in this [documentation](https://cl
 
 ## Table of Contents
 
-*[Removing Duplicate Data](https://github.com/brbep/bigquery-cool-features-standard-sql/examples/removing-duplicate-data.md)
+* [Removing Duplicate Data](examples/removing-duplicate-data.md)
+
 
 
 ## Other References
