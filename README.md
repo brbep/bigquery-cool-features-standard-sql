@@ -26,6 +26,7 @@ There is no logical order for the topics to follow, just a collection of a few f
 * [Export Data](examples/export-data.md)
 * [Create and Execute ML Models](examples/create-and-execute-ml-models.md)
 * [Analyze and Visualize Geospatial Data](examples/analyse-and-visualize-geospatial-data.md)
+* [Evaluate Arithmetic Expressions](examples/evaluate-arithmetic-expressions.md)
 
 ## References
 
