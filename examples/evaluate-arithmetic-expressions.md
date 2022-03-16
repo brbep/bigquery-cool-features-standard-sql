@@ -88,4 +88,6 @@ FROM base_table AS t
 * [TRANSLATE function](https://cloud.google.com/bigquery/docs/reference/standard-sql/string_functions#translate)
 * [ARRAY function](https://cloud.google.com/bigquery/docs/reference/standard-sql/array_functions#array)
 * [STRING_AGG function](https://cloud.google.com/bigquery/docs/reference/standard-sql/aggregate_functions#string_agg)
+* [REGEXP_REPLACE function](https://cloud.google.com/bigquery/docs/reference/standard-sql/string_functions#regexp_replace)
 * [JavaScript Eval Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval)
+* [Word Boundaries Regex](https://www.regular-expressions.info/wordboundaries.html)
