@@ -85,3 +85,7 @@ FROM base_table AS t
 * [TO_JSON_STRING function](https://cloud.google.com/bigquery/docs/reference/standard-sql/json_functions#to_json_string)
 * [SPLIT function](https://cloud.google.com/bigquery/docs/reference/standard-sql/string_functions#split)
 * [GENERATE_ARRAY function](https://cloud.google.com/bigquery/docs/reference/standard-sql/array_functions#generate_array)
+* [TRANSLATE function](https://cloud.google.com/bigquery/docs/reference/standard-sql/string_functions#translate)
+* [ARRAY function](https://cloud.google.com/bigquery/docs/reference/standard-sql/array_functions#array)
+* [STRING_AGG function](https://cloud.google.com/bigquery/docs/reference/standard-sql/aggregate_functions#string_agg)
+* [JavaScript Eval Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval)
