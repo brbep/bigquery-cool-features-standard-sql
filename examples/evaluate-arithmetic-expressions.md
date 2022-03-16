@@ -81,7 +81,7 @@ FROM base_table AS t
 ## Documentation
 
 * [Standard SQL](https://cloud.google.com/bigquery/docs/reference/standard-sql/introduction)
-* [Standard SQL user-defined functions](https://cloud.google.com/bigquery/docs/reference/standard-sql/user-defined-functions)
+* [User-defined functions (UDF)](https://cloud.google.com/bigquery/docs/reference/standard-sql/user-defined-functions)
 * [TO_JSON_STRING function](https://cloud.google.com/bigquery/docs/reference/standard-sql/json_functions#to_json_string)
 * [SPLIT function](https://cloud.google.com/bigquery/docs/reference/standard-sql/string_functions#split)
 * [GENERATE_ARRAY function](https://cloud.google.com/bigquery/docs/reference/standard-sql/array_functions#generate_array)
