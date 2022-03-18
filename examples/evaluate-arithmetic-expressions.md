@@ -67,14 +67,14 @@ WITH base_table AS (
         WHEN MOD(id, 3) = 0 THEN 'a*b-c/15' 
         WHEN MOD(id, 2) = 0 THEN 'a*(b-c)/15' 
         ELSE 'a+b'
-        END AS eqn
+        END AS exp
     FROM UNNEST(GENERATE_ARRAY(1, 1000000)) AS id --Increase the range to scale
 )
 
 SELECT 
   * ,
-  fn_render_values_in_expression(TO_JSON_STRING(t), eqn) AS eqn_rendered_values,
-  fn_evaluate_expression(fn_render_values_in_expression(TO_JSON_STRING(t), eqn)) AS expected_result
+  fn_render_values_in_expression(TO_JSON_STRING(t), exp) AS exp_rendered_values,
+  fn_evaluate_expression(fn_render_values_in_expression(TO_JSON_STRING(t), exp)) AS expected_result
 FROM base_table AS t
 ```
 
