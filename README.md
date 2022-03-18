@@ -34,3 +34,8 @@ There is no logical order for the topics to follow, just a collection of a few f
 * [BigQuery Admin reference guide](https://cloud.google.com/blog/topics/developers-practitioners/bigquery-admin-reference-guide-recap)
 * [Top 25 Google Search terms, now in BigQuery](https://cloud.google.com/blog/products/data-analytics/top-25-google-search-terms-now-in-bigquery)
 * [BigQuery Release Notes](https://cloud.google.com/bigquery/docs/release-notes)
+
+## Related Publications
+
+* [Cool BigQuery Features Using Standard SQL Syntax](https://blog.devgenius.io/cool-bigquery-features-using-standard-sql-syntax-e7a47ef9b72e)
+* [Evaluate arithmetic expressions without values using BigQuery](https://medium.com/@bpaulino/evaluate-arithmetic-expressions-without-values-using-bigquery-a4abd99f0932)
