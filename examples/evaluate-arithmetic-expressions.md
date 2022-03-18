@@ -68,7 +68,7 @@ WITH base_table AS (
         WHEN MOD(id, 2) = 0 THEN 'a*(b-c)/15' 
         ELSE 'a+b'
         END AS exp
-    FROM UNNEST(GENERATE_ARRAY(1, 1000000)) AS id --Increase the range to scale
+    FROM UNNEST(GENERATE_ARRAY(1, 100)) AS id --Increase the range to scale
 )
 
 SELECT 
